@@ -1,0 +1,13 @@
+# Java / Maven
+target/
+.idea/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# VS Code
+.vscode/
